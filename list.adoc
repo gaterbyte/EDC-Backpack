@@ -1,0 +1,79 @@
+= Gater's EDC setup
+Updated on Nov 30 2021
+
+This is the starter list, and is not yet complete. 
+
+== Back Pack
+
+https://www.amazon.com/gp/product/B00DU0PEA8[eBags Pro Slim Laptop Backpack (Solid Black)]
+
+== Other Storage
+
+https://www.amazon.com/gp/product/B06WGPLTVF[Silent Pocket Waterproof Faraday Dry Bag]
+
+== Tools
+
+https://www.amazon.com/LEATHERMAN-Wave-Multitool-Stainless-Steel/dp/B079MJ6MLV[LEATHERMAN Wave]
+
+
+== Flash Light
+
+https://www.amazon.com/Coast-20770-Applicable-Focusing-Flashlight/dp/B015QZDTQA[Coast 20770 Not Applicable Hx5 Focusing 130 lm Led Flashlight 
+
+https://coastportland.com/products/g9[INSPECTION BEAM POCKET LIGHT G9]
+
+https://coastportland.com/collections/led-flashlights/products/g20[INSPECTION BEAM POCKET LIGHT G9]
+
+
+
+== Gear
+
+https://www.amazon.com/Anker-3-Outlet-PowerIQ-PowerPort-Extension/dp/B07PRXFDZQ[Anker Power Strip with USB]
+
+https://www.amazon.com/Portable-Charger-Anker-PowerCore-20100mAh/dp/B00X5RV14Y[Anker PowerCore 20]
+
+https://www.amazon.com/GL-iNet-GL-AR750S-Ext-pre-Installed-Cloudflare-Included/dp/B07GBXMBQF[GL.iNet GL-AR750S-Ext (Slate)]
+
+https://www.amazon.com/Google-GA00439-US-Chromecast-3rd-Generation/dp/B015UKRNGS[Chromecast]
+
+https://www.amazon.com/gp/product/B07RGPCQG1/[Portable Monitor - Lepow 15.6 Inch]
+
+
+== Cables and Adaptors 
+
+https://www.amazon.com/gp/product/B08NXV94QM[Plugable 7-in-1 USB C Hub]
+
+https://www.amazon.com/gp/product/B084L4JL9K/[Plugable 2.5G USB C and USB to Ethernet]
+
+https://www.amazon.com/gp/product/B08CL4Y3PJ[Plugable USB C to HDMI Multiport Adapter, 3-in-1]
+
+https://www.amazon.com/gp/product/B07N48N5GR[Plugable USB C to M.2 NVMe Tool-free Enclosure]
+
+https://www.amazon.com/gp/product/B00NMXY2MO[Plugable USB Audio Adapter]
+
+https://www.amazon.com/gp/product/B01JK8KJSA[Plugable USB 3.1 Gen 2 USB-C to SATA Adapter Cable]
+
+https://www.amazon.com/dp/B019G9C1YS[Universal HDMI Adapter Ring Complete Assebly with 5 Adapters]
+
+http://syncstop.com/[sync stop USB Data Blocker]
+
+https://www.amazon.com/PortaPow-3rd-Gen-Data-Blocker/dp/B06XGM6LJB[PortaPow USB Data Blocker (Black) - Protect Against Juice Jacking]
+
+== Tablet
+
+https://www.amazon.com/Apple-Early-Wi-Fi-MR7F2LL-Refurbished/dp/B07G9QNT6P[Apple 9.7" iPad]
+
+== Food
+
+https://www.deathwishcoffee.com/products/death-wish-instant-coffee-1[Death Wish Instant Coffee]
+
+== Lockpicks
+
+https://www.picklocks.com/?product=swick-2[SWICK]
+ 
+ 
+== Pen Testing Tools
+ coming soon
+ ALL Hack 5 gear
+ SDR
+ 
